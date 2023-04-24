@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/Jud1th1/video-overlay/
+- Live Site URL: https://beachresort-video.netlify.app/
 
 ## My process
 -	I followed along with the FreeCodeCamp Youtube tutorial to layout out my HTML, JS and CSS. 
